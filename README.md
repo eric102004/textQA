@@ -12,3 +12,5 @@ Evaluate the text QA model with the groundtruth transcripts of the SLUE-SQA-5 de
 ```
 sh eval_groundtruth.sh
 ```
+
+*** Note: these instructions are a work in progress and will be updated over the next few days
